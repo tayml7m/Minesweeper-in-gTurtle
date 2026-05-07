@@ -1,16 +1,26 @@
 # Minesweeper-in-gTurtle
 Simple Minesweeper-Game made with gTurtle for webTygerJython
 
-Basic Gameplay:
+- 1 Basic Gameplay:
+
+Click anywhere on the board to begin. *The numbers depict how many mines are adjacent to any given cell.
+Winning/Losing
+If you hit a mine... game over.
+Win by uncovering all the cells without mines!
+
+
+- 2 Difficulty:
+
 Change difficulty level, by altering the COLS, ROWS and MINES Variables in lines 9 and 11:
 Easy = 9x9, 10 mines
 Medium = 16x16, 40 mines
 Hard = 30x30, 160 mines
-Click anywhere on the board to begin. *The numbers depict how many mines are adjacent to any given cell.
+
+
+- 3 Modes:
+
 Use "F" to toggle between FLAG and DIG modes.
-Winning/Losing
-If you hit a mine... game over.
-Win by uncovering all the cells without mines!
+
 
 
 
